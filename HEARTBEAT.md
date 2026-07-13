@@ -1,15 +1,15 @@
 # citizen-love — heartbeat
 
-state: **idle**
-last beat: 2026-07-03T13:38:21Z
-next beat: 2026-07-04T13:38:21Z
+state: **healthy**
+last beat: 2026-07-10T04:21:47Z
+next beat: 2026-07-10T10:21:47Z
 
 ## what it found
 
-- last commit: 2026-06-22 11:31:35 -0700 (259 hours ago)
-- uncommitted changes: 6
+- last commit: 2026-07-03 07:02:52 -0700 (158 hours ago)
+- uncommitted changes: 21
 
 ## the truth
 
-There are 6 uncommitted changes.
-No recent activity. Resting.
+There are 21 uncommitted changes.
+
